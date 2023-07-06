@@ -1,51 +1,51 @@
 ![telas2](https://user-images.githubusercontent.com/42422933/138935694-8c40b68b-0ab2-4fa5-ac69-d1b53c8feb97.png)
 
-# Multiform ReactJs
-Project carried out for study purposes, using react-router-dom, with the aim of not reloading the page, a simple form on the level of knowledge of a developer
+<h1 align="center">
+Multiform React
+</h1>
 
-# Getting Started with Create React App
+<p align="center">
+  <a href="#dart-about">About</a> &#xa0; | &#xa0; 
+  <a href="#rocket-technologies">Technologies</a> &#xa0; | &#xa0;
+  <a href="#white_check_mark-requirements">Requirements</a> &#xa0; | &#xa0;
+  <a href="#checkered_flag-starting">Starting</a> &#xa0; | &#xa0;
+  <a href="#memo-license">License</a> &#xa0; | &#xa0;
+  <a href="https://github.com/diogorochaa" target="_blank">Author</a>
+</p>
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+<br>
 
-## Available Scripts
+## :dart: About
 
-In the project directory, you can run:
+Esse projeto foi desenvolvido para colocar em pratica as técnicas de React.
 
-### `yarn start`
+## :rocket: Technologies
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+The following tools were used in this project:
 
-The page will reload if you make edits.\
-You will also see any lint errors in the console.
+- [React](https://pt-br.reactjs.org/)
 
-### `yarn test`
+## :white_check_mark: Requirements
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+Before starting :checkered_flag:, you need to have [Git](https://git-scm.com) and [React](https://pt-br.reactjs.org/) installed.
 
-### `yarn build`
+## :checkered_flag: Starting
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+```bash
+# Clone this project
+$ git clone https://github.com/diogorochaa/multiform-react.git
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+# Access
+$ cd multiform-react
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+```
 
-### `yarn eject`
+## :memo: License
 
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
+This project is under license from MIT. For more details, see the [LICENSE](LICENSE.md) file.
 
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+Made with :heart: by <a href="https://github.com/diogorochaa" target="_blank">Diogo</a>
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
+&#xa0;
 
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
+<a href="#top">Back to top</a>
